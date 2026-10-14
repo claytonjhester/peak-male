@@ -1,0 +1,35 @@
+{
+  "exported_at": "2026-10-14T04:52:39.095Z",
+  "project_id": "appgprj_6ab8b93605ec8191ba3923c85cf4a06f",
+  "title": "Peak Male",
+  "description": "An evidence-aware intelligence wire for integrated male development.",
+  "live_url": "https://peak-male.claytonjhester.chatgpt.site",
+  "access_mode": "public",
+  "automations": [],
+  "environment": {
+    "project_id": "appgprj_6ab8b93605ec8191ba3923c85cf4a06f",
+    "entries": [],
+    "revision": 0,
+    "updated_at": null
+  },
+  "versions": [
+    {
+      "id": "appgprj_6ab8b93605ec8191ba3923c85cf4a06f~appgver_4622ea9641a88191bc56a58247864cec",
+      "version_number": 2,
+      "source": {
+        "commit_sha": "f9df50332fcba52b0a566d8e357323a93b319dac"
+      },
+      "deployment_id": "appgdep_6ab94d331c788191b249c9ffbab2efa6",
+      "archive_hash": "sha256:134f605bbbdf087de0fa4ba95a31f4c9f6e4bf6343c65b208a9d361021695ccc"
+    },
+    {
+      "id": "appgprj_6ab8b93605ec8191ba3923c85cf4a06f~appgver_9b22681fc3d881919f2882ed411e02e3",
+      "version_number": 1,
+      "source": {
+        "commit_sha": "b187adbd13d8000c88ead8681d01071f3f0887a5"
+      },
+      "deployment_id": "appgdep_6ab8ba2a7de8819181ca2bd8aba1ce1b",
+      "archive_hash": "sha256:71f5d825e117639f3d03e0f41b54f5827babeb7c2cad5cac7690ae45aba097c5"
+    }
+  ]
+}
